@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-its wednesday
+its wednesday MY DUDES
 Use the left arrow to go back!
